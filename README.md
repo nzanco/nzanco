@@ -4,7 +4,6 @@ Informatik B.Sc. student at **TU Berlin**. I design and ship full-stack web appl
 that real businesses run on — mostly **Next.js, TypeScript, PostgreSQL** and **Prisma**,
 deployed on Vercel.
 
-Currently looking for a **Werkstudent position (16–20 h/week)** in Berlin or remote.
 
 ---
 
